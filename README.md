@@ -17,4 +17,4 @@ a pixel editor made by vl
 - grid
 - image
 
-![](https://github.com/lavalse/VPixel-Editor/blob/main/assets/img/ex.png)
+![](https://github.com/levitate-studio/VPixel-Editor/blob/main/assets/img/ex.png)
