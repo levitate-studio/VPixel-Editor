@@ -17,4 +17,4 @@ a pixel editor made by vl
 - grid
 - image
 
-![](https://github.com/levitate-studio/VPixel-Editor/blob/main/assets/img/ex.png)
+![]([https://github.com/levitate-studio/VPixel-Editor/blob/main/assets/img/ex.png](https://www.yamanashi-kankou.jp/english/explore-by-area/fujisan-fujigoko/images/fujisanmountainarea1.jpg))
